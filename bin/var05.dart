@@ -7,5 +7,10 @@ Print two of them.
 */
 
 void main() {
+  int x, y;
+  x = 10;
+  y = 20;
+  print(x);
+  print(y);
   // write your code here
 }
