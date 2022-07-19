@@ -7,5 +7,8 @@ Print two of them.
 */
 
 void main() {
+  double y = 2, x = 3;
+  print(x);
+  print(y);
   // write your code here
 }
